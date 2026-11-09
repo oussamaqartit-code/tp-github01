@@ -7,14 +7,3 @@ if s == n and n > 0:
     print(n,"est un nombre parfait")
 else:
     print(n,"est un nombre non parfait")
-
-
-
-
-
-
-
-
-
-
-    
